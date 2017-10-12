@@ -25,8 +25,7 @@ Sur la vue PROFIL, vous pouvez à tout moment modifier vos données personnelles
 à l'onglet à propos.
 
 
-
-Groupe :
+Projet réalisé dans le cadre de l'ENIB par:
 HARDELIN Tanguy
 LANDURE Etienne
 GRISART Pol
