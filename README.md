@@ -1,6 +1,6 @@
 # BonApp_-_Generateur_de_Recettes
 
-NOTE: L'application android pesant plus de 100Mo le code est accessible ici; http://tanguyhardelin.com/Android.zip
+NOTE: L'application android pesant plus de 100Mo le code est accessible ici -> http://tanguyhardelin.com/Android.zip
 
 
 Connecter votre téléphone à l'ordinateur.
