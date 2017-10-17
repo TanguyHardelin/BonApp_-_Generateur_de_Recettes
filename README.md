@@ -1,5 +1,8 @@
 # BonApp_-_Generateur_de_Recettes
 
+NOTE: L'application android pesant plus de 100Mo le code est accessible ici; http://tanguyhardelin.com/Android.zip
+
+
 Connecter votre téléphone à l'ordinateur.
 Utiliser l'IDE pour compiler et téléverser le code sur votre téléphone.
 Une fois l'application construite et lancée, se connecter à internet et créer son compte.
